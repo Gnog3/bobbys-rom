@@ -1,0 +1,8 @@
+﻿BobbysRomGui.EditRom.Inputs : "Inputs"
+BobbysRomGui.EditRom.Outputs : "Outputs"
+BobbysRomGui.EditRom.8bits : "8 bits"
+BobbysRomGui.EditRom.16bits : "16 bits"
+BobbysRomGui.EditRom.24bits : "24 bits"
+BobbysRomGui.EditRom.32bits : "32 bits"
+BobbysRomGui.EditRom.Data : "Data"
+BobbysRomGui.EditRom.Paste : "Paste"

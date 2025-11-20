@@ -1,0 +1,10 @@
+﻿ID: BobbysRomGui
+Name: Bobby's ROM GUI
+Author: gnog
+Version: 0.0.1
+ClientOnly: true
+Priority: -1
+Dependencies:
+    - EccsGuiBuilder
+    - EccsLogicWorldAPI
+    - BobbysRom

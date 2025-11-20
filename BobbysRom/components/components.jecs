@@ -1,0 +1,6 @@
+﻿BobbysRom:
+    column: "Logic"
+    prefabGenerator: BobbysRom.Client.RomPrefabGenerator
+    clientCode: BobbysRom.Client.Rom
+    logicCode: BobbysRom.Server.Rom
+    placingRulesGenerator: BobbysRom.Client.RomPlacingRulesGenerator
